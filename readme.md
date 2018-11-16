@@ -16,11 +16,9 @@
 _이탤릭체_  
 *이탤릭체*  
 **볼드체**  
-__볼드체__
+__볼드체__  
 
-
-
-
+![Alt text](https://github.com/MingeeJoh/resume/blob/master/K-9.jpg?raw=true)
 
 
 
